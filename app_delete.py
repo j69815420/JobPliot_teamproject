@@ -29,7 +29,7 @@ def home():
 def delete_user():
     """회원 탈퇴 API (Firebase 로그인)"""
     print("\n" + "=" * 80)
-    print("🗑️ 회원 탈퇴 함수 실행!")
+    print("회원 탈퇴 함수 실행!")
     
     auth_header = request.headers.get('Authorization')
     
@@ -144,4 +144,5 @@ if __name__ == '__main__':
         methods = ', '.join(rule.methods - {'HEAD', 'OPTIONS'})
         print(f"  - {rule.rule} [{methods}]")
     print("=" * 80 + "\n")
+
     app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)
