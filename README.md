@@ -1,5 +1,5 @@
 # JobPilot
-<img width="1200" height="940" alt="Image" src="https://github.com/user-attachments/assets/c15d8840-5584-4c9a-a2a9-2e0f86f5c1d0" />
+<img width="1000" height="900" alt="Image" src="https://github.com/user-attachments/assets/c15d8840-5584-4c9a-a2a9-2e0f86f5c1d0" />
 
 
 ### 프로젝트 소개
