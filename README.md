@@ -17,7 +17,7 @@
 - AI 평가 점수 및 피드백 결과 저장 및 항목별 조회 기능 구현
 - 자기소개서 저장 · 수정 · 삭제 기능 구현
 ## 3. 기술 스택
-<img src="https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=Java&logoColor=white"/><img src="https://img.shields.io/badge/Python-orenge?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-blue?style=flat-square&logo=JAVA&logoColor=white"/><img src="https://img.shields.io/badge/Python-pink?style=flat-square&logo=Python&logoColor=white"/>
 
 
 
