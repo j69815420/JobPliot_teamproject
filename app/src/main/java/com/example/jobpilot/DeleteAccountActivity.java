@@ -94,7 +94,7 @@ public class DeleteAccountActivity extends AppCompatActivity {
     private void sendKakaoUnlinkToServer(String accessToken){
         OkHttpClient client = new OkHttpClient();
         Request request = new Request.Builder()
-                .url("http://192.168.219.103:5000/api/kakao/unlink")
+                .url("http://192.168.219.103:5000/api/kakao")
                 .delete()
                 .addHeader("Authorization", "Bearer " + accessToken)
                 .build();
