@@ -18,7 +18,7 @@
 - 자기소개서 저장 · 수정 · 삭제 (CRUD) 기능 구현
 ## 3. 기술 스택
 ## 4. 시스템 구조
-<img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/f903e454-f8b2-4169-884f-2d3fdc3f7c4c" />
+<img width="500" height="200" alt="Image" src="https://github.com/user-attachments/assets/aa5d243e-e2dd-4c3c-89b8-2d8b78ca10cc" />
 
 
 ## 5. 기능 동작 흐름
